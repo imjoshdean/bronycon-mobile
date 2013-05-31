@@ -1,0 +1,17 @@
+name = Bronycon Mobile
+description = Bronycon 2013 Mobile Theme
+core = 7.x
+engine = phptemplate
+
+regions[header] = Header
+regions[secondary_header] = Secondary Header
+regions[sidebar] = Right Sidebar
+regions[content] = Content
+regions[footer_left] = Left Footer
+regions[footer_right] = Right Footer
+
+stylesheets[all][] = css/bronycon_mobile.css
+
+scripts[] = js/plugins.js
+scripts[] = js/script.js
+
